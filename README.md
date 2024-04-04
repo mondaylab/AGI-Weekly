@@ -37,7 +37,7 @@
 
 # AGI交流
 
-加小编微信：mondaylab712，备注「周刊」
+加小编微信：mondaylab712，备注「AGI周刊」
 
 ![公众号名片](https://mondaylab-1309616765.cos.ap-shanghai.myqcloud.com/images/202404041925699.png)
 
