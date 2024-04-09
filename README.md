@@ -25,7 +25,9 @@
 
 # 2024年
 
-第2期：
+第3期：
+
+第2期：[第002期 - 2024/04-第1周- 林间聊愈室 、剪映上线智能画布、数字人上综艺](https://github.com/mondaylab/AGI-Weekly/issues/2)
 
 第1期：[第001期 - 2024/03-第4周-提示词图书馆、AI DIY工具、suno作曲](https://github.com/mondaylab/AGI-Weekly/issues/1)
 
