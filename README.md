@@ -2,7 +2,7 @@
 发布一周中最接地气的通用人工智能AGI
 
 [![](https://img.shields.io/badge/飞书-宝藏库-%46D6B8B8)](https://pzfqk98jn1.feishu.cn/wiki/wikcnTijikVNdkWdBEKzQpiA6ie)
-[![](https://img.shields.io/badge/飞书-AGI周刊-purple)](https://pzfqk98jn1.feishu.cn/wiki/TZ60wgRzIirQqEkWnBXcOzCdnre)
+[![](https://img.shields.io/badge/飞书-AGI周刊-purple)]([https://pzfqk98jn1.feishu.cn/wiki/TZ60wgRzIirQqEkWnBXcOzCdnre](https://pzfqk98jn1.feishu.cn/wiki/V5Mjw4KPEiTCXDkJRX1caaWdnVb?fromScene=spaceOverview))
 [![](https://img.shields.io/badge/XHS-小红书-%23f64343)](https://www.xiaohongshu.com/user/profile/5e09ca9f0000000001002c9b)
 [![](https://img.shields.io/badge/Juejin-掘金-blue)](https://juejin.cn/user/3131845139247960/posts)
 [![](https://img.shields.io/badge/FlowUs-息流-yellow)](https://flowus.cn/modaylab/dd8e50fa-40e2-4779-84f9-00ec80dfd06d)
